@@ -5,9 +5,13 @@ type: software
 authors:
   - family-names: "Pilco Tambo"
     given-names: "Macguiver"
+    affiliation: "Carrera de Ciencias Químicas, Universidad Mayor de San Andrés (UMSA), La Paz, Bolivia"
 version: "2026.11.21"
 date-released: "2026-11-21"
 license: CC-BY-NC-SA-4.0
+license-url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+repository-code: "https://github.com/maccpilco7/laboratorio-quimica-inorganica-3d"
+url: "https://maccpilco7.github.io/laboratorio-quimica-inorganica-3d/"
 abstract: "Aplicación educativa en un solo archivo HTML, sin conexión, para Química Inorgánica I, II y III: laboratorios interactivos, modelos 3D, espectroscopía, cristalografía, campo cristalino, modo estudio con reportes y panel docente."
 keywords:
   - química inorgánica
@@ -15,3 +19,5 @@ keywords:
   - educación química
   - 3D
   - UMSA
+  - Bolivia
+  - recurso educativo abierto
