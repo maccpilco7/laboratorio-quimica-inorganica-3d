@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si usas esta aplicación en clases, trabajos o publicaciones, cítala así."
+title: "Laboratorio Interactivo de Química Inorgánica 3D"
+type: software
+authors:
+  - family-names: "Pilco Tambo"
+    given-names: "Macguiver"
+version: "2026.11.21"
+date-released: "2026-11-21"
+license: CC-BY-NC-SA-4.0
+abstract: "Aplicación educativa en un solo archivo HTML, sin conexión, para Química Inorgánica I, II y III: laboratorios interactivos, modelos 3D, espectroscopía, cristalografía, campo cristalino, modo estudio con reportes y panel docente."
+keywords:
+  - química inorgánica
+  - campo cristalino
+  - educación química
+  - 3D
+  - UMSA
