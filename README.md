@@ -53,7 +53,7 @@ cp index.html ../index.html
 
 ## Cómo citar
 
-Pilco Tambo, M. (2026). *Laboratorio Interactivo de Química Inorgánica 3D* (versión 2026.11.21) [Software educativo]. https://github.com/USUARIO/laboratorio-quimica-inorganica-3d
+Pilco Tambo, M. (2026). *Laboratorio Interactivo de Química Inorgánica 3D* (versión 2026.11.21) [Software educativo]. https://github.com/maccpilco7/laboratorio-quimica-inorganica-3d
 
 (Ver también [`CITATION.cff`](CITATION.cff).)
 
